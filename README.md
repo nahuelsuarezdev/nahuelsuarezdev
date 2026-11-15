@@ -9,3 +9,7 @@ HTML · CSS · JavaScript · Python · Java · MySQL
 ### Qué viene
 
 Estoy armando este portfolio de cero: voy a ir subiendo microapps y proyectos a medida que avance.
+
+### Contacto
+
+[LinkedIn](https://www.linkedin.com/in/nahuelsuarezdev) · suareznahuelpa@gmail.com
