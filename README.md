@@ -4,7 +4,7 @@ Estudio la Tecnicatura Superior en Desarrollo de Software en el IES Nº 7 de Ven
 
 ### Con qué trabajo
 
-HTML · CSS · JavaScript · Python · Java · MySQL
+HTML · CSS · JavaScript · PHP · MySQL · Kotlin · Python · Java · C++ · Git
 
 ### Qué viene
 
